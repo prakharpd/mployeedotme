@@ -31,10 +31,10 @@ It produced the most consistent, professional, and well-structured outputs with 
 
 Four strategies were tested:
 
-1. Zero-shot  
-2. Few-shot  
-3. Chain-of-thought  
-4. Role-based (resume consultant)
+1. Zero-Shot  
+2. Few-Shot  
+3. Chain-Of-Thought  
+4. Role-Based (Resume Consultant/ Recruiter)
 
 Few-Shot, Chain-of-Thought and Role-based prompting gave the best overall results.
 

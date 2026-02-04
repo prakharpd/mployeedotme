@@ -21,7 +21,7 @@ This project rewrites resume bullet points using multiple Large Language Models 
 
 ## Best Performing Model
 
-**deepseek-r1:14b**
+**gpt-oss:120b-cloud**
 
 It produced the most consistent, professional, and well-structured outputs with minimal hallucination.
 
@@ -36,7 +36,7 @@ Four strategies were tested:
 3. Chain-of-thought  
 4. Role-based (resume consultant)
 
-Role-based prompting gave the best overall results.
+Few-Shot, Chain-of-Thought and Role-based prompting gave the best overall results.
 
 ---
 
@@ -51,5 +51,7 @@ Role-based prompting gave the best overall results.
 
 ## Conclusion
 
-Prompt design had more impact than model size.  
-Local models, especially **deepseek-r1:14b**, are strong enough for real resume rewriting tasks.
+Prompt design and LLM model used had more impact on the result. 
+Higher the parameter used for training the LLM better would be the result.
+Local models, especially **gpt-oss:120b-cloud**, can be used for real resume rewriting tasks.
+Since they are fast and computationally efficient.

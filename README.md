@@ -12,7 +12,7 @@ This project rewrites resume bullet points using multiple Large Language Models 
 - OpenAI Python SDK (compatibility mode)
 
 **Models**
-- `gpt-oss:120b-cloud` (subscription-based / cloud)  
+- `gpt-oss:120b-cloud` (local / cloud)  
 - `deepseek-r1:14b` (local)  
 - `gemma3:4b` (local)  
 - `llama3.2` (local)

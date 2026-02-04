@@ -2,7 +2,8 @@
 
 This system processes user-provided resume bullet points and transforms them using multiple Large Language Models (LLMs) via OpenAI-compatible APIs, with an emphasis on evaluating model performance and prompt effectiveness.
 
-Note:- "v1_comment.ipynb" explains approach to problem."v2_comment.ipynb" is more polished and efficent version.
+> v1_comment.ipynb explains the approach; v2_comment.ipynb is the optimized version.
+
 ---
 
 ## Models & Tools Used

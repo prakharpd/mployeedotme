@@ -1,4 +1,4 @@
-# Resume Bullet Rewriter (LLM Evaluation)
+# Resume Bullet Rewriter Using LLM 
 
 This project rewrites resume bullet points using multiple Large Language Models (LLMs) through OpenAI-compatible APIs. The focus is on evaluating model behavior and prompt effectiveness.
 
